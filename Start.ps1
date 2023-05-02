@@ -1,1 +1,0 @@
-.\plotmover.ps1 -tempPath "E:\" -plotPaths "D:\", "F:\", "R:\"
